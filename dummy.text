@@ -3,7 +3,7 @@ auto-save is off
 // setup project : npm init -y
 // install typescript : npm i -D typescript
 // npm i -D ts-node : TypeScript execution for node.js
-//npm i nodemon : continue starting our server
+//npm i nodemon : continue starting our server.
 
 
 step 2 
