@@ -1,0 +1,17 @@
+auto-save is off
+
+// setup project : npm init -y
+// install typescript : npm i -D typescript
+// npm i -D ts-node : TypeScript execution for node.js
+//npm i nodemon : continue starting our server
+
+
+step 2 
+// tsconfig.json file
+// nodemon.json  file
+
+// installation
+// express body-parser cookie-parser compression cors
+// typo error : -D @types/express for all same
+
+// crypt for generating token and authentication
